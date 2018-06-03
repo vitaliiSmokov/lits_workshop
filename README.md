@@ -1,2 +1,2 @@
 # lits_workshop
-Workshop in lviv it school
+Workshop at the lviv it school
